@@ -1,0 +1,1 @@
+long add_in_c(long x, long y);
